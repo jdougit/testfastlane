@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1a175bd2-83ba-4d9e-83a7-96f74dbeeeb8",
+    "email": "jdougit",
+    "password_hash": "$2a$10$Wqvrpo/C0CLYK7IwCobi1.T/dvyz8w2JZ2p1fF6hnuUEUk6grfbrm",
+    "provider_credentials": [
+      {
+        "id": "93bb7535-461b-408c-8430-975863a7e657",
+        "email": "jdou@esri.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "Zc3DO0LOS6/m1WYszJ5HGfhr6pNhthiF+PA4GlPoZAos9thOhgJWkDtb19Rz\nG3iMjf0igYWuo8poMWKiSQ1BiQ==\n"
+      }
+    ]
+  }
+]
